@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+h1{
+	text-align: center;
+}
 table{
 	border: 1px solid black;
 	spacing:1px;
